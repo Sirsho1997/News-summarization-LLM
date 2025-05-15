@@ -7,7 +7,8 @@ This project demonstrates how to apply full-fine-tune and PEFT to FLAN-T5 to gen
 Install the necessary Python packages:
 
 ```bash
-pip install transformers datasets nltk rouge-score pandas scikit-learn
+pip install -r requirements.txt
+
 ```
 
 
